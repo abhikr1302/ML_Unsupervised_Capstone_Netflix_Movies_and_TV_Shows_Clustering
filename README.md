@@ -1,4 +1,4 @@
-# ML_Unsupervised_Capstone_Netflix_Movies_and_TV_Shows_Clustering
+# Netflix_Movies_and_TV_Shows_Clustering
 # Introduction:-
 Netflix is the world's leading streaming entertainment service with over 209 million paid memberships in over 190 countries enjoying TV series, documentaries and feature films across a wide variety of genres and languages. 
 
